@@ -1,0 +1,3 @@
+image          = "docker.io/aliaafarrag/nodejs-hello:1.0.0.2508161441"
+container_name = "hello-ci-cd"
+host_port      = 8080

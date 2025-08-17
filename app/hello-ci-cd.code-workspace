@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../hello-ci-cd"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Documents/hello-ci-cd"
+		}
+	]
+}
